@@ -5,7 +5,7 @@ build
 *.egg-info
 dist
 output
-data/*
+data/coco
 backup
 weights/*.weights
 __pycache__
